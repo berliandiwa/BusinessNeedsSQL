@@ -18,7 +18,7 @@ FROM table1;
 
 /* Interpretation : 
 
-From the data available to Ralali, all categories have a certain number of cancelled or refunded orders by buyers, making it impossible to meet the standard success rate set.
+From the data available to PT XYZ, all categories have a certain number of cancelled or refunded orders by buyers, making it impossible to meet the standard success rate set.
 
 When comparing the succeeded order with the total order, the Agriculture & Food, Electronics, Computer & Communication, Automotive & Transportation, Machinery & Industrial 
 Parts, Health & Medical, Building Materials, and Horeca categories have a fairly high success order rate, which is above 95%. This indicates a high level of efficiency or 
@@ -28,7 +28,7 @@ On the other hand, the Beauty, Services, Furniture & Decorations, and Office & S
 needed to determine and evaluate the reasons for the lower success rate compared to other categories.
 
 The category with the lowest success order rate is Office & Store Supplies with a percentage of 86.74%. This indicates that many customers are dissatisfied with the service 
-and ordering process in this category. Therefore, Ralali needs to evaluate the reasons for the low success order rate in the Office & Store Supplies category.
+and ordering process in this category. Therefore, PT XYZ needs to evaluate the reasons for the low success order rate in the Office & Store Supplies category.
 */
 
 -- Stakeholders want to know the Success Order Rate for each order conducted by buyers grouped by Category and Order Platform Source Class.
@@ -66,8 +66,8 @@ the total number of orders for each platform, the total orders on the website pl
 orders. This indicates that the majority of customers prefer and are more satisfied with using the website platform compared to the mobile platform. It suggests that the 
 website platform performs better and is easier to use, making customers more interested in transacting through that platform.
 
-To address the low number of orders and success order percentage on the mobile platform, Ralali needs to observe and reevaluate to identify any shortcomings that need to be 
-addressed, thus improving the performance and success order rate on the mobile platform. Additionally, Ralali can introduce its mobile platform to customers to increase 
+To address the low number of orders and success order percentage on the mobile platform, PT XYZ needs to observe and reevaluate to identify any shortcomings that need to be 
+addressed, thus improving the performance and success order rate on the mobile platform. Additionally, PT XYZ can introduce its mobile platform to customers to increase 
 usage or total orders on the mobile platform.
 
 */
