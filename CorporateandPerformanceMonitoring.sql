@@ -32,13 +32,13 @@ LIMIT 5;
 -- Interpretation
 /* The reporting results indicate that the top 5 categories with the highest number of orders are Agriculture & Food, Computer & Communication, Automotive & Transportation, 
  Machinery & Industrial Parts, and Electronics. Based on these results, it can be concluded that:
-1. The majority of Ralali's customers come from the Agriculture & Food industry.
-2. The largest profits for Ralali come from these 5 categories.
-3. The sales trend on Ralali from 2018-2022 is dominated by products in the categories of Agriculture & Food, Computer & Communication, Automotive & Transportation, 
-    Machinery & Industrial Parts, and Electronics. Therefore, Ralali can provide better treatment, both for sellers and transactions, in these categories.
+1. The majority of PT XYZ's customers come from the Agriculture & Food industry.
+2. The largest profits for PT XYZ come from these 5 categories.
+3. The sales trend on PT XYZ from 2018-2022 is dominated by products in the categories of Agriculture & Food, Computer & Communication, Automotive & Transportation, 
+    Machinery & Industrial Parts, and Electronics. Therefore, PT XYZ can provide better treatment, both for sellers and transactions, in these categories.
 */
 
-/* A.2 Stakeholders want to know the Year-over-Year (YoY) trend of Gross Merchandise Value (GMV) on Ralali.com for the years 2018, 2019, 2020, and 2021 for 4 prioritized 
+/* A.2 Stakeholders want to know the Year-over-Year (YoY) trend of Gross Merchandise Value (GMV) on PT XYZ.com for the years 2018, 2019, 2020, and 2021 for 4 prioritized 
 segments: F&B (Agriculture & Food, Horeca), MRO (Machinery & Industrial Parts, Building Materials, Automotive & Transportation), Health & Beauty (Health & Medicare, Beauty 
 Sport and Fashion), 3C (Computer & Communication, Electronics), and Others. */
 
@@ -89,8 +89,8 @@ Based on the reporting results, it can be concluded that:
 2. The YoY GMV trend in the MRO segment experienced the highest increase in 2021 and a decrease in 2019.
 3. The YoY GMV trend in the Health & Beauty segment experienced the highest increase in 2021 and the highest decrease in 2020.
 4. The YoY GMV trend in the 3C & Other segment experienced the highest increase in 2021 and a decrease in 2020.
-5. The majority of segments experienced an increase in GMV in 2021, indicating that Ralali gained the highest profit in 2021.
+5. The majority of segments experienced an increase in GMV in 2021, indicating that PT XYZ gained the highest profit in 2021.
 6. The MRO segment experienced development for three consecutive years, from 2020 to 2022.
-7. In 2022, all segments on Ralali experienced significant development, as evidenced by the positive YoY GMV growth for all segments.
-8. In 2019, three out of four segments on Ralali, namely F&B, MRO, and Health & Beauty, experienced a decrease, resulting in an overall decrease in transactions 
-for Ralali in 2019.*/
+7. In 2022, all segments on PT XYZ experienced significant development, as evidenced by the positive YoY GMV growth for all segments.
+8. In 2019, three out of four segments on PT XYZ, namely F&B, MRO, and Health & Beauty, experienced a decrease, resulting in an overall decrease in transactions 
+for PT XYZ in 2019.*/
